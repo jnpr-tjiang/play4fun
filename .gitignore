@@ -1,0 +1,9 @@
+# Ignore following directories and file types
+/.idea/*
+/.gradle/*
+/build/*
+*.class
+*.iml
+/.classpath/*
+/.project/*
+/.settings/*
